@@ -10,8 +10,6 @@
 
 - 🤝 I’m looking for help with **web development**
 
-- 👨‍💻 All of my projects are available at [https://nageshtoxic.github.io/portfolio/](https://nageshtoxic.github.io/portfolio/)
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **nageshpatilm4u@gmail.com**
